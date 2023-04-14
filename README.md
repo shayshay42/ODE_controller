@@ -1,2 +1,3 @@
 # ODE_controller
  model predictive optimal control of ODE systems in Quantitative Systems Pharmacology
+![Optimization](https://github.com/shayshay42/ODE_controller/blob/main/hyperparams_close_lastcellloss_gdcscaledby100mg_simon_params_newloop_adam05_auto_forwardmode_properscaled_a0.915_150epochs_startat400mgrandomlow_.gif)
